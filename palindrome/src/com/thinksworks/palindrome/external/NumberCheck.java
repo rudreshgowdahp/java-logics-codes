@@ -2,7 +2,7 @@ package com.thinksworks.palindrome.external;
 
 public class NumberCheck {
     public static void main(String[] args) {
-        int number = 2;
+        int number = 1;
         if (number %2 == 0 ){
             System.out.println("even");
         }else {
