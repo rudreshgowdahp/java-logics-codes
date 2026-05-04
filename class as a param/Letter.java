@@ -1,3 +1,0 @@
-class cars{
-	static void 
-}
