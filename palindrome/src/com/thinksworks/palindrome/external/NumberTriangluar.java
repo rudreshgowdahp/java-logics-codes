@@ -8,7 +8,7 @@ public class NumberTriangluar {
                 if (j <= n - i) {
                     System.out.print(" ");
                 } else {
-                    System.out.print(j - (n - i));
+                    System.out.print(i);
                 }
             }
             System.out.println();
