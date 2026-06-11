@@ -2,7 +2,7 @@ package com.thinksworks.palindrome.external;
 
 public class PalindromeCheck {
     public static void main(String[] args) {
-        String name = "rudresh";
+        String name = "rudra";
         String reversed = "";
 
         for (int i = name.length() - 1; i >= 0; i--) {
